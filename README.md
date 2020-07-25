@@ -34,7 +34,7 @@ Below I'll be using MapMyRun for the manual upload. However Strava or other shou
 ![choose file button](Assets/mapmyrun-choose-file.png)
 
 
-#### 5. Select the.fit or .gpx file
+#### 5. Select the .FIT,.TCX or .GPX file
 
 Navigate to the **ACTIVITY** folder and select your activity.
 

@@ -36,6 +36,8 @@ Below I'll be using MapMyRun for the manual upload. However Strava or other shou
 
 #### 5. Select the.fit or .gpx file
 
+Navigate to the **ACTIVITY** folder and select your activity.
+
 ![choose your activity file](Assets/choose-your-workout-file.png)
 
 Congratulations your activity should now be synced. 🥳

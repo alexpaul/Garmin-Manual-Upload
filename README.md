@@ -42,6 +42,12 @@ Navigate to the **ACTIVITY** folder and select your activity.
 
 Congratulations your activity should now be synced. 🥳
 
+#### MapMyRun workout manually uploaded
+
+![workout](Assets/mapmyrun-workout.png)
+
+#### Strava workout manually uploaded
+
 ![strava](Assets/strava.png)
 
 ## 3. If syncing your garmin data to IRONMAN Virtual club 

@@ -8,7 +8,7 @@ If you are simply getting your garmin data from your device to your fitness comp
 
 ## 1. Connect your Garmin device to your mac or pc
 
-My Garmin Forerunner 920 xt comes with a charging cable so since bluetooth won't work for this manual upload we will connect via the chargning cable. Once your mac has detected the watch connection you are able to view your watch data files in the Finder window. 
+My Garmin Forerunner 920 xt comes with a charging cable so since bluetooth won't work for this manual upload we will connect via the charging cable. Once your mac has detected the watch connection you are able to view your watch data files in the Finder window. 
 
 ![finder](Assets/finder.png)
 

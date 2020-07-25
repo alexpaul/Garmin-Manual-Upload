@@ -51,6 +51,6 @@ Congratulations your activity should now be synced. 🥳
 ![vr sync](Assets/ironman-activity-sync.png)
 
 
-Congratulations your IRONMAN VR activity should now be synced. 🏃🏾‍♂️🚴🏾‍♂️🏃🏾‍♂️
+Congratulations your IRONMAN VR activity should now be synced. 🏃🏾‍♂️ 🚴🏾‍♂️ 🏃🏾‍♂️
 
 

@@ -2,7 +2,7 @@
 
 Manually uploading your Garmin watch data to your fitness software of choice e.g Strava, MapMyFitness, ....
 
-In this example we will be manually syncing garmin watch data with MapMyRun and connecting MapMyRun to IRONMAN Virtual club. 
+In this example we will be manually sync garmin watch data with MapMyRun and connecting MapMyRun to IRONMAN Virtual club. 
 
 If you are simply getting your garmin data from your device to your fitness company of choice simply doing the manual upload will suffice. 
 

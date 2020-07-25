@@ -42,6 +42,8 @@ Navigate to the **ACTIVITY** folder and select your activity.
 
 Congratulations your activity should now be synced. 🥳
 
+![strava](Assets/strava.png)
+
 ## 3. If syncing your garmin data to IRONMAN Virtual club 
 
 #### 1. Connect MapMyRun app 
@@ -52,7 +54,9 @@ Congratulations your activity should now be synced. 🥳
 
 ![vr sync](Assets/ironman-activity-sync.png)
 
-
 Congratulations your IRONMAN VR activity should now be synced. 🏃🏾‍♂️ 🚴🏾‍♂️ 🏃🏾‍♂️
+
+![](Assets/ironman-vr-16.png)
+
 
 

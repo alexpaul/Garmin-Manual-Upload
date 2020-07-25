@@ -27,7 +27,7 @@ Below I'll be using MapMyRun for the manual upload. However Strava or other shou
 
 #### 3. Import workout 
 
-![import workout](Assets/mapmyrun-import-workouts-2)
+![import workout](Assets/mapmyrun-import-workouts-2.png)
 
 #### 4. Click on the Choose File from the File Upload dialog 
 
